@@ -6,10 +6,114 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“栩栩姐，这么急干什么？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T104428Z" creationid="Jinghao" creationdate="20180712T104428Z">
+        <seg>"Sister Yuyu, why are you in such a hurry?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“温秘书，你在听吗？</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T111703Z" creationid="Jinghao" creationdate="20180712T111703Z">
+        <seg>"Secretary Wen, are you listening?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“言总。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105542Z" creationid="Jinghao" creationdate="20180712T105542Z">
+        <seg>"CEO Yan."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“言总，你电话，情况很紧急。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112435Z" creationid="Jinghao" creationdate="20180712T112435Z">
+        <seg>"CEO Yan, you have a call. It seems to be very urgent."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一个高大的肉色身影正好从卫生间里出来。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112819Z" creationid="Jinghao" creationdate="20180712T112741Z">
+        <seg>A large nude-colored figure was just stepping out of the bathroom as well.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>一尘不染的大理石地面，倒映着温栩栩纤细苗条的身影，她两只手各拿着一部荣盛最新版的手机，腋下还夹着一个蓝色的文件夹，脚步急促的往总裁办公室方向走。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T103102Z" creationid="Jinghao" creationdate="20180712T103102Z">
         <seg>On the spotless marble flooring, Wen Xuxu's slender figure could be seen reflecting off it. She was holding the latest model of cell phone from Rongsheng in each of her hands as she walked hastily towards the CEO's office with a blue file tucked under her arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>人未到，声音先到，就省的敲门了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112532Z" creationid="Jinghao" creationdate="20180712T112532Z">
+        <seg>Before she could see him, his voice already sounded out. There was no need to knock anymore.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>右手上拿着的白色手机还处于通话中，电话那边甜美的女音有些不耐的催促着她。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112115Z" creationid="Jinghao" creationdate="20180712T112115Z">
+        <seg>The phone in her right hand was active in call and the sweet voice of a woman could be heard urging at her with some impatience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>喊了一声没有人回应她，她目光扫向主卧室门口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T111609Z" creationid="Jinghao" creationdate="20180712T111609Z">
+        <seg>After calling out to him and getting no response, her gaze swept to the master bedroom door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她没有看到言如生的身影。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T110643Z" creationid="Jinghao" creationdate="20180712T110643Z">
+        <seg>She didn't see Yan Rusheng around.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>怎么还没有找到言总吗？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T111725Z" creationid="Jinghao" creationdate="20180712T111725Z">
+        <seg>Have you not found CEO Yan yet?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>总裁办公室是两室一厅的套房，简单的欧美风，灰白系列的家具，烟灰色烤瓷面的办公桌，白色的老板椅，身后是整面墙的落地窗，窗外是小半个城市的景色。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T111442Z" creationid="Jinghao" creationdate="20180712T111442Z">
+        <seg>The CEO's office was a two-bedroomed, one-living room suite that was decorated simply with a European flair and was matched with a gray-white furniture series. An ash-gray porcelain desk and a white director's chair sat in front of floor-to-ceiling windows that spanned across the wall. Outside, the view of half the city could be seen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>所以公司里除了那些老字辈的领导，其余所有的员工无论年龄大小，都尊称她‘栩栩姐’。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105231Z" creationid="Jinghao" creationdate="20180712T105231Z">
+        <seg>As such, other than those veterans in leadership roles at the company, everyone else would respectfully address her as Sister Xuxu no matter how young or old they were.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>所谓肉色身影就是……一丝不挂。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112838Z" creationid="Jinghao" creationdate="20180712T112812Z">
+        <seg>By nude-colored here...it just meant that he was fully nude.</seg>
       </tuv>
     </tu>
     <tu>
@@ -22,10 +126,90 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>果然，房门是开着的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T111622Z" creationid="Jinghao" creationdate="20180712T111622Z">
+        <seg>Sure enough, the door was open.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>毕业后又被老董事长亲自聘请进荣盛，任总裁的秘书，也就是言大boss的秘书。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105043Z" creationid="Jinghao" creationdate="20180712T105019Z">
+        <seg>After her graduation, she had been personally hired by the old chairman into Rongsheng to be the CEO's secretary, which meant she was Big Boss Yan's secretary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>温栩栩正犹豫要不要去房间把电话给言如生。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T111812Z" creationid="Jinghao" creationdate="20180712T111812Z">
+        <seg>Wen Xuxu was hesitating whether to go into the room to pass the phone to Yan Rusheng.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>温栩栩皱眉，也很不耐烦的回了一句，“马上。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112352Z" creationid="Jinghao" creationdate="20180712T112225Z">
+        <seg>Wen Xuxu frowned as she also answered back impatiently, "I'm getting to him immediately."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>温栩栩笑着对那问她话的人摆了摆手里的手机，“总裁电话。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105331Z" creationid="Jinghao" creationdate="20180712T105331Z">
+        <seg>Wen Xuxu smiled at that person who asked her that question and waved the cell phone in her hand. "A call for the CEO."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>然后拧开门锁，推开了门进去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105534Z" creationid="Jinghao" creationdate="20180712T105458Z">
+        <seg>Thereafter, she turned the doorknob and pushed it open before going in.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>第1章 装什么害羞</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T102601Z" creationid="Jinghao" creationdate="20180712T102601Z">
         <seg>Chapter 1: What are you acting shy about?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>荣盛里，没有人不知道她和大boss言如生是发小，跟大boss上的一所幼儿园，一所小学，一所中学，就连大学也都是在B城上的。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T104923Z" creationid="Jinghao" creationdate="20180712T104923Z">
+        <seg>In Rongsheng, no one did not know about her being the childhood friend of the big boss, Yan Rusheng. She had attended the same kindergarten, the same primary school, and the same secondary school. She even attended university in B-city with him.***</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>话音落，人已经踏进了房间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112626Z" creationid="Jinghao" creationdate="20180712T112626Z">
+        <seg>Just as she finished speaking, she had already stepped into the room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>说着她脚步朝主卧室门口走去。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112424Z" creationid="Jinghao" creationdate="20180712T112424Z">
+        <seg>Saying that, her footsteps headed towards the master bedroom door.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>说话间她已经到了总裁办公室门口，伸手敲了两下门。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105511Z" creationid="Jinghao" creationdate="20180712T105442Z">
+        <seg>As she spoke, she already reached the front of the CEO's office. She reached her hand out and knocked on the door twice.</seg>
       </tuv>
     </tu>
 <!-- Alternative translations -->
