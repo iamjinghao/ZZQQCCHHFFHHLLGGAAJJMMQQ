@@ -6,10 +6,26 @@
 <!-- Default translations -->
     <tu>
       <tuv lang="ZH-CN">
+        <seg>“我好看么？”磁性的男人声音仿若下了蛊一般，充满着魅惑。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T113243Z" creationid="Jinghao" creationdate="20180712T113243Z">
+        <seg>"Am I so good looking?" The magnetic voice of a man seemingly cast a spell on her and sounded full of seductive charm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>“栩栩姐，这么急干什么？”</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T104428Z" creationid="Jinghao" creationdate="20180712T104428Z">
-        <seg>"Sister Yuyu, why are you in such a hurry?"</seg>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114938Z" creationid="Jinghao" creationdate="20180712T104428Z">
+        <seg>"Sister Xuxu, why are you in such a hurry?"</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>“温栩栩，你装什么害羞，又不是没看过。”被异性看光了身体，言boss不但没有惊叫，反而很淡定的嘲笑温栩栩，“小时候我们还一起洗过澡，你忘了？”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114306Z" creationid="Jinghao" creationdate="20180712T114046Z">
+        <seg>"Wen Xuxu, what are you acting all shy for? It's not like you've never seen this before." After getting his entire body looked at by someone of the opposite gender, not only did Boss Yan not exclaim out, he even mocked at Wen Xuxu in a very calm manner. "When we were young, didn't we also bath together? Have you forgotten that already?"</seg>
       </tuv>
     </tu>
     <tu>
@@ -48,8 +64,32 @@
       <tuv lang="ZH-CN">
         <seg>一尘不染的大理石地面，倒映着温栩栩纤细苗条的身影，她两只手各拿着一部荣盛最新版的手机，腋下还夹着一个蓝色的文件夹，脚步急促的往总裁办公室方向走。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T103102Z" creationid="Jinghao" creationdate="20180712T103102Z">
-        <seg>On the spotless marble flooring, Wen Xuxu's slender figure could be seen reflecting off it. She was holding the latest model of cell phone from Rongsheng in each of her hands as she walked hastily towards the CEO's office with a blue file tucked under her arms.</seg>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T115142Z" creationid="Jinghao" creationdate="20180712T103102Z">
+        <seg>On the spotless marble flooring, Wen Xuxu's slender figure could be seen reflecting off it. She was holding the latest cell phone model from Rongsheng in each of her hands as she walked hastily towards the CEO's office with a blue file tucked under her arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一时间不知道怎么办，惊愣住了，视线盯在男人，久久的没有移开。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T113054Z" creationid="Jinghao" creationdate="20180712T112927Z">
+        <seg>In a moment of panic, she just stood there looking stunned. Her eyes met with the man as she did not move away for the longest time.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>下一秒她听到了‘啪’的一声，手机不知道砸到什么地方了，反正肯定是碎了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T113926Z" creationid="Jinghao" creationdate="20180712T113926Z">
+        <seg>Immediately at the next moment, she heard a "plop". The phone must have hit something and sounded like it had definitely broke.***</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>两人之间发生矛盾她从来不争论，她都是直接动手。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T115952Z" creationid="Jinghao" creationdate="20180712T115807Z">
+        <seg>Whenever a conflict arose between the two of them, she would never argue. She was always a direct hands-on person about such things.</seg>
       </tuv>
     </tu>
     <tu>
@@ -62,10 +102,34 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>他的声音很好听，特别是像此时，带着几分笑意，如陈年佳酿，让人陶醉。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114408Z" creationid="Jinghao" creationdate="20180712T114408Z">
+        <seg>His voice was very nice, especially when it sounded like the way it did now. With a trace of some laughter, it was especially enchanting to hear.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>反正争论后的结果，吃亏的还是她。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T120326Z" creationid="Jinghao" creationdate="20180712T120326Z">
+        <seg>She would always be on the losing end anyway if there was an argument.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>右手上拿着的白色手机还处于通话中，电话那边甜美的女音有些不耐的催促着她。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112115Z" creationid="Jinghao" creationdate="20180712T112115Z">
         <seg>The phone in her right hand was active in call and the sweet voice of a woman could be heard urging at her with some impatience.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>听到这一声响，温栩栩心里别提有多痛快了。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114004Z" creationid="Jinghao" creationdate="20180712T114004Z">
+        <seg>When she heard that sound, Wen Xuxu couldn't mention how happy she felt on the inside.</seg>
       </tuv>
     </tu>
     <tu>
@@ -82,6 +146,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T110643Z" creationid="Jinghao" creationdate="20180712T110643Z">
         <seg>She didn't see Yan Rusheng around.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>她赶紧转过身背对着身材精壮的男人，“言总，你电话，欧阳小姐打来的，说有紧急的事情，务必要找到你。”</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T113736Z" creationid="Jinghao" creationdate="20180712T113736Z">
+        <seg>She quickly turned around with her back facing the man with a well-toned physique (ripped body) and said, "CEO Yan, there's a call for you. It's from Miss Ouyang. She says it's something urgent that she has to look for you about."</seg>
       </tuv>
     </tu>
     <tu>
@@ -110,10 +182,26 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>所以此时此刻，她还是选择忍，交代了一句，然后飞快的离开了言如生的房间。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T120528Z" creationid="Jinghao" creationdate="20180712T120528Z">
+        <seg>Thus at this moment now, she could only choose to endure it and pass the message to Yan Rusheng before quickly leaving his room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>所谓肉色身影就是……一丝不挂。</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112838Z" creationid="Jinghao" creationdate="20180712T112812Z">
-        <seg>By nude-colored here...it just meant that he was fully nude.</seg>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112933Z" creationid="Jinghao" creationdate="20180712T112812Z">
+        <seg>By nude-colored here...it just meant fully nude.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>打不过他的时候，她就忍着。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T120344Z" creationid="Jinghao" creationdate="20180712T120344Z">
+        <seg>If she could not beat him, then she'd just have to bear with it.</seg>
       </tuv>
     </tu>
     <tu>
@@ -138,6 +226,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T105043Z" creationid="Jinghao" creationdate="20180712T105019Z">
         <seg>After her graduation, she had been personally hired by the old chairman into Rongsheng to be the CEO's secretary, which meant she was Big Boss Yan's secretary.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>温栩栩回过神，漂亮的脸蛋瞬间爆红，像充了血一样。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T113321Z" creationid="Jinghao" creationdate="20180712T113321Z">
+        <seg>Wen Xuxu came back to her senses immediately. Her beautiful face instantly flushed red, almost as though she had a rush of blood to her head.</seg>
       </tuv>
     </tu>
     <tu>
@@ -176,8 +272,16 @@
       <tuv lang="ZH-CN">
         <seg>第1章 装什么害羞</seg>
       </tuv>
-      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T102601Z" creationid="Jinghao" creationdate="20180712T102601Z">
-        <seg>Chapter 1: What are you acting shy about?</seg>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114057Z" creationid="Jinghao" creationdate="20180712T102601Z">
+        <seg>Chapter 1: What are you acting all shy for?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第2章 亏他还说小时候</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T115719Z" creationid="Jinghao" creationdate="20180712T115119Z">
+        <seg>Chapter 2: To think that he would even bring up the past</seg>
       </tuv>
     </tu>
     <tu>
@@ -190,10 +294,34 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>言如生从小到大在温栩栩的心目中的形象一直是‘流氓’，毒舌又腹黑，还很花心。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114819Z" creationid="Jinghao" creationdate="20180712T114638Z">
+        <seg>Yan Rusheng has always had the image of a "scoundrel" in Wen Xuxu's impression of him since they were young. He had a venomous tongue and was a black-bellied kinda guy too. And to top that off, he was also very fickle with his heart.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>让你一大早沾污我的眼睛。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T114019Z" creationid="Jinghao" creationdate="20180712T114019Z">
+        <seg>Who told you to pollute my eyes so early in the morning.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>话音落，人已经踏进了房间。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T112626Z" creationid="Jinghao" creationdate="20180712T112626Z">
         <seg>Just as she finished speaking, she had already stepped into the room.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>说着她把手机往后一抛。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T113753Z" creationid="Jinghao" creationdate="20180712T113753Z">
+        <seg>Saying that, she threw the cell phone backwards.</seg>
       </tuv>
     </tu>
     <tu>
