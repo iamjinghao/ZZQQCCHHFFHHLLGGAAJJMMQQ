@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="ZH-CN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>一尘不染的大理石地面，倒映着温栩栩纤细苗条的身影，她两只手各拿着一部荣盛最新版的手机，腋下还夹着一个蓝色的文件夹，脚步急促的往总裁办公室方向走。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T103102Z" creationid="Jinghao" creationdate="20180712T103102Z">
+        <seg>On the spotless marble flooring, Wen Xuxu's slender figure could be seen reflecting off it. She was holding the latest model of cell phone from Rongsheng in each of her hands as she walked hastily towards the CEO's office with a blue file tucked under her arms.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>最强宠婚：腹黑老公傲娇萌妻</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T102402Z" creationid="Jinghao" creationdate="20180712T102402Z">
+        <seg>Uber Pampered Marriage: Black-bellied Husband, Tsundere Wife!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第1章 装什么害羞</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T102601Z" creationid="Jinghao" creationdate="20180712T102601Z">
+        <seg>Chapter 1: What are you acting shy about?</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
