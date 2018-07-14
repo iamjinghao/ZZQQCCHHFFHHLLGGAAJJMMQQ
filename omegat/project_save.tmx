@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.1_0_9688" segtype="sentence" srclang="ZH-CN"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="4.1.5_0_10418" segtype="sentence" srclang="ZH-CN"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -318,6 +318,14 @@
     </tu>
     <tu>
       <tuv lang="ZH-CN">
+        <seg>思忖间，她已经到了欧阳青青经纪人告诉她的到达口门口。</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="jingh" changedate="20180714T123753Z" creationid="jingh" creationdate="20180714T123753Z">
+        <seg>Ouyang Qingqing </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
         <seg>总裁办公室是两室一厅的套房，简单的欧美风，灰白系列的家具，烟灰色烤瓷面的办公桌，白色的老板椅，身后是整面墙的落地窗，窗外是小半个城市的景色。</seg>
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T122329Z" creationid="Jinghao" creationdate="20180712T111442Z">
@@ -498,6 +506,14 @@
       </tuv>
       <tuv lang="EN-US" changeid="Jinghao" changedate="20180712T115719Z" creationid="Jinghao" creationdate="20180712T115119Z">
         <seg>Chapter 2: To think that he would even bring up the past</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ZH-CN">
+        <seg>第3章 花心不改</seg>
+      </tuv>
+      <tuv lang="EN-US" changeid="jingh" changedate="20180714T123436Z" creationid="jingh" creationdate="20180714T123436Z">
+        <seg>Chapter 3: An unchanging fickle heart</seg>
       </tuv>
     </tu>
     <tu>
