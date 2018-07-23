@@ -1,4 +1,4 @@
-﻿好马不吃回头草	a good man doesn't backtrack
+好马不吃回头草	a good man doesn't backtrack
 小菜一碟	a piece of cake
 太阳从西边出来	hell freezes over
 说曹操，曹操到	speak of the devil
@@ -33,7 +33,7 @@
 姜是老的竦	with experience comes wisdom
 得青山在，不怕没柴烧	where's there's life there's hope
 拿得起，放得下	to be able to go with the flow
-以其人之道还治其人之身 	to give someone a taste of their own medicine, to pay back in one's own coin
+以其人之道还治其人之身	to give someone a taste of their own medicine, to pay back in one's own coin
 走桃花运	lucky in love
 成事不足，败事有余	incompetent, everything one touches turns to dust
 皇上不急太监急	the person involved is calm and collected but observers are very worried
@@ -167,7 +167,7 @@
 打狗还得看主人	every action has consequences, when one beats a dog one must answer to its master
 万事俱备，只欠东风	to be prepared but lack the crucial element
 不管黑猫白猫，会捉老鼠就是好猫	it does not matter whether a cat is black or white so long as it catches mice
-真金不怕火炼	 true blue will never stain
+真金不怕火炼	true blue will never stain
 狗改不了吃屎	the fox may grow grew but never good
 杀手锏	ace in the hole, trump card
 饥不择食	beggars can't be choosers
@@ -363,7 +363,7 @@
 墙倒众人推	everyone kicks a man who is down
 莫须有	groundless, trumped-up
 拿鸡毛当令箭	to use a made-up directive to order people around
-捅破窗户纸 	to affirm an open secret, to address the elephant in the room
+捅破窗户纸	to affirm an open secret, to address the elephant in the room
 三字经	curse
 苍蝇不叮无缝的蛋	to bring bad things upon oneself as a result of one's bad character
 大跌眼镜	to have one's jaw drop, to be slack-jawed
@@ -508,15 +508,9 @@
 丈	ten feet
 打量	sized up
 温栩栩	Wen Xuxu
-
 栩栩	Xuxu
-
 荣盛	Rongsheng
-
 言如生	Yan Rusheng
-
 欧阳	Ouyang
-
 总裁	President
-
 欧阳青青	Ouyang Qingqing
